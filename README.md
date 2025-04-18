@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello everyone! You have reached my GitHub repository. In the future this page will be more extensive, but for now we have what we have. If you want to contact me, you can find my pages [here](https://sanoscorb.ru/wiki/User:Sanoscorb). Enjoy.
 
 <!--
 **Sanoscorb/Sanoscorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
